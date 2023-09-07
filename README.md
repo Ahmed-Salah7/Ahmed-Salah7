@@ -1,8 +1,5 @@
 Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working with PHP , laravel and laravel echo systems tools like (LiveWire,filament , ..etc) , Vue
 - 🔭 I care about Web Development , DevOps , Data Base
 - 🌱 I’m currently learning GoLang
