@@ -21,7 +21,6 @@ github.com/ahmed-salah-gad/ahmed-salah-gad
   <a href="mailto:ahmed.salah.fcih@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-ahmed.salah.fcih%40gmail.com-EA4335?logo=gmail&logoColor=white">
   </a>
-  <img alt="Leading" src="https://img.shields.io/badge/Team-Lead%20of%2015-4CAF50">
 </p>
 
 ---
