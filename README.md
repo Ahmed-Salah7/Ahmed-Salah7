@@ -5,7 +5,7 @@ Repo must be named exactly: Ahmed-Salah7/Ahmed-Salah7
 
 <h1 align="center">Hi, I'm Ahmed Salah Gad 👋</h1>
 <p align="center">
-  <strong>Team Lead Software Engineer</strong> — building reliable products and strong teams
+  <strong>Tech Lead Software Engineer</strong> — building reliable products and strong teams
 </p>
 
 <p align="center">
@@ -23,15 +23,11 @@ Repo must be named exactly: Ahmed-Salah7/Ahmed-Salah7
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-Salah7&label=Profile%20views&color=0A66C2&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 👋 About me
 
-I'm a **Team Lead Software Engineer** who guides delivery, mentors engineers, designs pragmatic solutions, and removes blockers so teams ship value consistently.
+I'm a **Tech Lead Software Engineer** who guides delivery, mentors engineers, designs pragmatic solutions, and removes blockers so teams ship value consistently.
 
 - 🔭 **What I do:** lead delivery, architecture & code reviews, mentoring, process improvement
 - ⚙️ **How I work:** clarity first, iterate fast, automate the boring parts, measure what matters
@@ -72,8 +68,8 @@ I'm a **Team Lead Software Engineer** who guides delivery, mentors engineers, de
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Salah7&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Salah7&layout=compact&hide_border=true&theme=default" alt="Top languages" />
+  <img height="165" src="https://grs.talpa.dev/api?username=Ahmed-Salah7&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Ahmed's GitHub stats" />
+  <img height="165" src="https://grs.talpa.dev/api/top-langs/?username=Ahmed-Salah7&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
 <p align="center">
