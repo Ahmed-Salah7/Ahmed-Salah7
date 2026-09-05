@@ -14,6 +14,8 @@ Default branch: develop (this is fine — GitHub renders the README from whateve
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-salah-gad"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ahmed%20Salah%20Gad-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/AhmedSalahFcih"><img alt="X" src="https://img.shields.io/badge/X-@AhmedSalahFcih-000000?logo=x&logoColor=white"></a>
+  <!-- Resume: once you commit resume.pdf to this repo's root, replace the href below with
+       https://github.com/Ahmed-Salah7/Ahmed-Salah7/blob/develop/resume.pdf -->
   <a href="https://drive.google.com/file/d/1Tf2mTWBCbJjlcmE6_MDDBajiUmXQkaNo/view?usp=sharing"><img alt="Resume (PDF)" src="https://img.shields.io/badge/Resume-PDF-FF6F00?logo=readme&logoColor=white"></a>
   <a href="mailto:ahmed.salah.fcih@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-say%20hello-EA4335?logo=gmail&logoColor=white"></a>
 </p>
@@ -55,6 +57,9 @@ I'm a **Tech Lead Software Engineer**. I guide delivery, mentor engineers, desig
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
+<details>
+<summary><b>More: data, cloud, CI/CD, frontend &amp; mobile</b></summary>
+
 **Data &amp; messaging**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -90,65 +95,29 @@ I'm a **Tech Lead Software Engineer**. I guide delivery, mentor engineers, desig
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🚀 Featured work
-
-<!--
-TODO: Replace these three placeholders with your best public repos, then pin the same
-repos on your profile. Repo cards render automatically from github-readme-stats.
-Aim for projects that show *leadership-level* work: an architecture template,
-a CI/observability starter, an open-source contribution, or a write-up.
--->
-
-<p align="center">
-  <a href="https://github.com/Ahmed-Salah7/REPO-ONE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Salah7&repo=REPO-ONE&hide_border=true&theme=default" alt="REPO-ONE">
-  </a>
-  <a href="https://github.com/Ahmed-Salah7/REPO-TWO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmed-Salah7&repo=REPO-TWO&hide_border=true&theme=default" alt="REPO-TWO">
-  </a>
-</p>
-
-| Project | What it shows | Stack |
-|---|---|---|
-| **[REPO-ONE](https://github.com/Ahmed-Salah7/REPO-ONE)** | One-line outcome (e.g. "Production-ready Laravel service template with SLO dashboards and queue workers") | Laravel · Redis · Datadog |
-| **[REPO-TWO](https://github.com/Ahmed-Salah7/REPO-TWO)** | One-line outcome | Go · RabbitMQ |
-| **[Talk / article title](https://example.com)** | Writing or a talk on engineering leadership / reliability | — |
+</details>
 
 ---
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ahmed-Salah7&show_icons=true&theme=github_dark&hide_border=true">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Salah7&show_icons=true&theme=default&hide_border=true" alt="Ahmed's GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Salah7&layout=compact&hide_border=true&theme=github_dark">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Salah7&layout=compact&hide_border=true&theme=default" alt="Top languages">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-Salah7&theme=default" alt="Ahmed's GitHub profile details and contribution graph" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ahmed-Salah7&hide_border=true&theme=github-dark-blue">
-    <img src="https://streak-stats.demolab.com/?user=Ahmed-Salah7&hide_border=true&theme=default" alt="GitHub streak stats">
-  </picture>
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-Salah7&theme=default" alt="Ahmed's GitHub stats" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Salah7&theme=default" alt="Top languages by repo" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Salah7&theme=default" alt="Top languages by commit" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Salah7&theme=github-compact&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Salah7&theme=minimal&hide_border=true" alt="Contribution activity graph">
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=Ahmed-Salah7&hide_border=true&theme=default" alt="GitHub streak stats" />
 </p>
 
 <!--
-Stats cards only count public activity unless you self-host github-readme-stats with your own
-token (see https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own). The public
-instance is rate-limited; if a card shows an error it is temporary, not a config issue.
+Cards are served by github-profile-summary-cards (vn7n24fzkq) and streak-stats (DenverCoder1).
+The former github-readme-stats hosts (github-readme-stats.vercel.app, grs.talpa.dev) are paused/offline as of Sept 2026.
 -->
 
 ---
