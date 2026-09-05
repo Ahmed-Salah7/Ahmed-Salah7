@@ -24,9 +24,9 @@ Default branch: develop (this is fine — GitHub renders the README from whateve
 
 ## 👨‍💻 About me
 
-I'm a **Tech Lead Software Engineer**. I guide delivery, mentor engineers, design pragmatic architectures, and remove blockers so teams ship value consistently.
+I take teams from ambiguous problem to shipped, observable software — setting direction, designing pragmatic architectures, mentoring engineers, and clearing blockers so delivery stays predictable.
 
-- 🔭 **What I do:** delivery leadership, architecture &amp; code reviews, mentoring, process improvement
+- 🔭 **What I do:** delivery leadership, architecture & code reviews, mentoring, process improvement
 - ⚙️ **How I work:** clarity first, iterate fast, automate the boring parts, measure what matters
 - 🌱 **Currently focused on:** platform reliability (SLOs, monitoring, alerting maturity) and scaling Laravel/PHP services (performance, queueing, horizontal scale)
 - 💬 **Ask me about:** engineering leadership, backend architecture, DevOps/CI pipelines
@@ -106,13 +106,8 @@ I'm a **Tech Lead Software Engineer**. I guide delivery, mentor engineers, desig
 </p>
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahmed-Salah7&theme=default" alt="Ahmed's GitHub stats" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahmed-Salah7&theme=default" alt="Top languages by repo" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Salah7&theme=default" alt="Top languages by commit" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahmed-Salah7&hide_border=true&theme=default" alt="GitHub streak stats" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahmed-Salah7&theme=default" alt="Top languages by commit" />
+  <img height="195" src="https://streak-stats.demolab.com/?user=Ahmed-Salah7&hide_border=true&theme=default" alt="GitHub streak stats" />
 </p>
 
 <!--
@@ -124,7 +119,4 @@ The former github-readme-stats hosts (github-readme-stats.vercel.app, grs.talpa.
 
 ## 📫 Let's connect
 
-Always happy to talk engineering leadership, backend systems, or DevOps.
-[LinkedIn](https://www.linkedin.com/in/ahmed-salah-gad) is the fastest way to reach me — or drop an [email](mailto:ahmed.salah.fcih@gmail.com).
-
-<p align="center"><sub>⚡ Fun fact: I automate anything I have to do more than twice.</sub></p>
+Happy to talk engineering leadership, backend systems, or DevOps — [LinkedIn](https://www.linkedin.com/in/ahmed-salah-gad) is fastest, or drop an [email](mailto:ahmed.salah.fcih@gmail.com).
